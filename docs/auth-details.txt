@@ -1,0 +1,15 @@
+User Authentication — Detailed Notes
+------------------------------------
+
+This file is part of the feature/user-authentication branch for CK2.
+
+The purpose of this file is to demonstrate:
+- Branch-specific work
+- Multiple commits on a feature branch
+- Git operations without requiring real backend code
+
+Details:
+- This branch focuses on the user authentication feature.
+- No real authentication logic is required for this course.
+- The goal is to show meaningful Git activity and documentation.
+- This file contributes to the 50+ lines requirement for the branch.
