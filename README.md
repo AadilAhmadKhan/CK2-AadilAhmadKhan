@@ -62,6 +62,11 @@ To intentionally create a merge conflict, edit the same lines in one of:
 ```bash
 npm test
 npm run lint
+
+## Database Connection
+This section describes the database connection feature for CK2.
+
+Additional note: This feature is documentation-only for CK2.
 ```
 
 Additional note: This feature is documentation-only for CK2.
