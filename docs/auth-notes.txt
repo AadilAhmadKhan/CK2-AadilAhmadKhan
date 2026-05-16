@@ -1,0 +1,3 @@
+User Authentication Feature
+- This file demonstrates work on the authentication branch.
+- No real code required.
