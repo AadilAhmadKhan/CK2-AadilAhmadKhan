@@ -1,0 +1,14 @@
+Database Connection — Notes
+---------------------------
+
+This file is part of the feature/database-connection branch.
+
+Purpose:
+- Demonstrate Git branching and documentation work.
+- No real database code is required for CK2.
+- This file contributes to the 50+ lines requirement.
+
+Summary:
+- The database connection feature would normally handle connecting to a DB.
+- For this assignment, documentation-only changes are acceptable.
+- This branch simulates work on database-related tasks.
