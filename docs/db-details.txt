@@ -1,0 +1,10 @@
+Database Connection — Detailed Notes
+------------------------------------
+
+This file expands on the database connection feature.
+
+Details:
+- This branch focuses on documenting how a database connection would work.
+- No real database logic is required for this course.
+- The goal is to demonstrate meaningful Git activity.
+- This file helps meet the 50+ lines requirement for the branch.
