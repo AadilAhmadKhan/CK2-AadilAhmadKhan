@@ -53,3 +53,5 @@ npm run lint
 ```
 ## API Endpoints
 This section describes the API endpoints feature for CK2.
+
+Additional note: This feature is documentation-only for CK2.
