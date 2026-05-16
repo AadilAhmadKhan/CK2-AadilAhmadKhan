@@ -55,4 +55,5 @@ npm run lint
 ## Database Connection
 This section describes the database connection feature for CK2.
 
+Additional note: This feature is documentation-only for CK2.
 ```
