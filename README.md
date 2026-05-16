@@ -1,3 +1,4 @@
+
 # CSP-451 Web Starter — CheckPoint 2
 
 This repository is a **starter template** for practicing:
@@ -50,4 +51,8 @@ To intentionally create a merge conflict, edit the same lines in one of:
 ```bash
 npm test
 npm run lint
+
+## Database Connection
+This section describes the database connection feature for CK2.
+
 ```
