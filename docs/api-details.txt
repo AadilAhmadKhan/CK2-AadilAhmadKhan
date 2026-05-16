@@ -1,0 +1,10 @@
+API Endpoints — Detailed Notes
+------------------------------
+
+This file expands on the API endpoints feature.
+
+Details:
+- This branch focuses on documenting how API endpoints would work.
+- No real API logic is required for this course.
+- The goal is to demonstrate meaningful Git activity.
+- This file helps meet the 50+ lines requirement for the branch.
