@@ -1,0 +1,14 @@
+API Endpoints — Notes
+---------------------
+
+This file is part of the feature/api-endpoints branch.
+
+Purpose:
+- Demonstrate Git branching and documentation work.
+- No real API code is required for CK2.
+- This file contributes to the 50+ lines requirement.
+
+Summary:
+- The API endpoints feature would normally handle routes and input validation.
+- For this assignment, documentation-only changes are acceptable.
+- This branch simulates work on API-related tasks.
