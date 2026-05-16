@@ -51,3 +51,5 @@ To intentionally create a merge conflict, edit the same lines in one of:
 npm test
 npm run lint
 ```
+## API Endpoints
+This section describes the API endpoints feature for CK2.
