@@ -64,3 +64,4 @@ npm test
 npm run lint
 ```
 
+Additional note: This feature is documentation-only for CK2.
